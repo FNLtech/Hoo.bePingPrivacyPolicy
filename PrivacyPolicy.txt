@@ -1,1 +1,91 @@
 Hoo.be Ping Privacy Policy
+
+	PRIVACY POLICY
+FNL Technologies, Inc. (“Hoo.be,” “we,” “us,” or “our”) own or license all right, title, and interest in and to the website located at Hoo.be (the “Website”) and any and all related mobile applications (the “App,” and collectively with the Website, the “Services”). All references to “you” or “your” refer to the person accessing or using the Services.
+
+Your use of the Services is subject to our Terms of Use. This Privacy Policy explains how we collect and use personally identifiable information and non-identifying information about you when you access or use the Services.
+
+PLEASE READ THIS PAGE CAREFULLY. BY ACCESSING THE SERVICES OR SUBMITTING YOUR PERSONAL INFORMATION (DEFINED BELOW) IN ORDER TO RECEIVE THE SERVICES, YOU AGREE TO THE COLLECTION, TRANSFER, STORAGE, DISCLOSURE, AND USE OF YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, DO NOT ACCESS OR USE THE SERVICE
+
+	ADDITIONAL TERMS; UPDATES
+
+You acknowledge that Hoo.be Ping is an aggregation service that collects and combines various content and social media feeds that you are have identified that you are interested in seeing. In addition to the terms of this Agreement, all of the terms (including privacy policies) of the content providers and social media accounts (together, the “Third-Party Applications”) that you include in your customized feed will apply to your use, viewing and submission of content made available to, by or through the Third-Party Applications.
+
+Hoo.be will notify you of any changes to this Privacy Policy by posting the modified Privacy Policy and its effective date on this page. Accordingly, you should visit this page periodically to identify and understand any such changes. By continuing to access or use the Services after a modification, you agree to be bound by the modified Privacy Policy.
+     
+	INFORMATION COLLECTED BY Hoo.be
+
+Collection of Personal Information
+“Personal Information” means all personally-identifiable information (including, without limitation, your name, e-mail address, mobile telephone number or birth date) that you submit in connection with the Services. hoo.be does not collect Personal Information unless you voluntarily submit it in connection with your use of the Services, send inquiries to Hoo.be, send inquiries to physicians located within the Service, or participate in certain activities available via the Services. We collect Personal Information when you choose to use certain features of the Services, including when you: (i) create an account; (ii) engage in certain activities available via the Services, such as sharing content; or (iii) consent to receive commercial or promotional email, direct mail, or SMS/text messages about upcoming promotions or events.
+
+Information Gathered Automatically
+Hoo.be automatically collects certain non-identifying information about you (such as your movement about the Services and the pages you visit most frequently). In addition, Hoo.be may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices’ unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile internet browsers you use, and the information about the way you use the Services.
+
+Hoo.be may collect other passive information using technologies such as standard server logs, cookies and clear GIFs (“Web Beacons”). Web Beacons are small pieces of information or data stored on your computer or mobile device that are used to determine your preferences and track your search terms and other behaviors or activities as you navigate around the Internet (collectively, “User Behavior”). Hoo.be may share your User Behavior with certain advertisers and such advertisers may respond to your User Behavior within the Service with advertisements or sponsored content. If you object to this practice, you may erase or block certain Web Beacons. We recommend, however, that you allow Web Beacons to be stored on your computer or mobile device as they may be needed to properly use the Services.
+
+Information on Location Data
+
+When you use our Services, we may use GPS technology (or other similar technology) to determine your current location in order to determine the city you are located within and display a location map with relevant advertisements. Based on your user setting, we may share your current location with other users or partners to customize your Services experience and view more relevant information.
+
+If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or within the mobile application.
+
+Your Content
+Except for Hoo.be’s obligations concerning your Personal Information as set forth herein, Hoo.be assumes no responsibility for securing any content you submit via the Services.
+
+Mobile Number
+If you provide us with your phone number, you agree to receive text messages to that number from us.
+
+	CHANGING OR REMOVING YOUR PERSONAL INFORMATION
+
+You can also deactivate and permanently delete your Hoo.be Ping account by following the instructions here. Hoo.be may retain any Personal Information that you submit in connection with your account and you understand that deleted Personal Information may persist for a reasonable period of time in backup copies but will not be available to others.
+
+	USE OR DISCLOSURE OF YOUR INFORMATION
+
+Hoo.be will not use, disclose, or sell your Personal Information to any third parties for any purposes other than those set forth herein or as may be necessary to deliver the Services.
+
+The Personal Information and non-identifying information we collect from you may be used as follows:
+     to identify you when you login to your account and to personalize your experience and better respond to your individual needs;
+      to provide and improve the Services;
+      to analyze the Services and information about our visitors and users, including research into our user demographics and user behavior in order to improve our content and Services;
+      to contact you regarding your account, the Services or otherwise improve our customer service;
+      to share aggregate (non-identifiable) statistics about users of the Services to prospective advertisers and partners;
+      to administer contests, promotions, surveys or other features for the Services;
+      to send periodic mailings concerning information and updates pertaining to Hoo.be; or
+      to send special or promotional offers or discounts related to Hoo.be or its affiliates and information related to products you have viewed via the Services.
+
+Notwithstanding the foregoing or any other statements or representations here or elsewhere, Hoo.be reserves the right to disclose any Personal Information in our possession if Hoo.be believes that such disclosure is necessary: (i) to conform to legal requirements or to respond to a subpoena, search warrant, or other legal process received by Hoo.be, whether or not a response is required by applicable law; (ii) to enforce or protect Hoo.be’s rights; or (iii) to protect the safety of users of Hoo.be’s Services and members of the general public.
+
+In the event that Hoo.be or the Service is sold or transferred, or in the event that substantially all of our assets are sold or transferred to a third party, the Service and any personally identifiable information collected by us, will be among the transferred assets. By using the Service, you hereby agree to such transfer or assignment of your personally identifiable information collected by us, and you further waive any claims that could be made against us in relation thereto.
+
+BY SUBMITTING ANY CONTENT THROUGH THE SERVICE, YOU ACKNOWLEDGE AND AGREE THAT THE THIRD PARTY APPLICATIONS WILL PUBLICLY DISSEMINATE SUCH CONTENT. NO USER CONTENT IS OR WILL BE SUBJECT TO ANY OBLIGATION OF CONFIDENCE ON THE PART OF Hoo.be.
+
+	SECURITY
+
+Hoo.be has reasonable security measures in place to protect Personal Information you submit in order to receive the Services. While no computer system or server is completely secure, we believe the measures we implement reduce security problems. Notwithstanding the foregoing, Hoo.be cannot guarantee the security of your Personal Information. When you communicate with Hoo.be electronically or otherwise submit your Personal Information, your communication is not necessarily secure and is subject to all of the risks of communication, including unauthorized entry or use, hardware or software failure, and other factors that may compromise the security of Personal Information at any time. Hoo.be assumes no responsibility for the security of any Personal Information you submit.
+
+	LINKS
+
+We may permit certain third parties to link to our Services, and the Services may contain links to third-party sites. We may also incorporate third party software (including open source software) in the Services. Hoo.be is not responsible for the privacy policies or practices of such third parties, including on such third parties’ websites. When linking to a third party website, you should read the privacy policy stated on that website. This Privacy Policy only governs Personal Information, non-identifying information and content collected in connection with the Services.
+
+	ADDITIONAL PROTECTIONS FOR CHILDREN
+
+The Services are not designed for or targeted to children under the age of 13, and Hoo.be will never knowingly solicit or collect the Personal Information of a child under the age of 13. If we discover that Personal Information of a child under the age of 13 has been submitted without verifiable parental consent, we will immediately delete such Personal Information.
+
+	CALIFORNIA PRIVACY RIGHTS
+
+Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2017 will receive information regarding 2016 sharing activities).
+
+To obtain this information, please send an email message to with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response
+
+	CONTACT INFORMATION
+
+If you have any questions about this Privacy Policy or your dealings with Hoo.be, please feel free to contact us at:
+
+
+      FNL Technologies, Inc.
+      22 Boston Wharf Rd. 
+      Boston, MA 02210
+      Attn: Jordan Greenfield
+      Email: jordan@hoobieapp.com
+
+Effective date: 3/25/19
