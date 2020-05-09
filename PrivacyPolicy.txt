@@ -1,4 +1,4 @@
-Hoo.be Ping Privacy Policy
+Hoo.be and Ping Privacy Policy
 
 	PRIVACY POLICY
 FNL Technologies, Inc. (“Hoo.be,” “we,” “us,” or “our”) own or license all right, title, and interest in and to the website located at Hoo.be (the “Website”) and any and all related mobile applications (the “App,” and collectively with the Website, the “Services”). All references to “you” or “your” refer to the person accessing or using the Services.
@@ -9,7 +9,7 @@ PLEASE READ THIS PAGE CAREFULLY. BY ACCESSING THE SERVICES OR SUBMITTING YOUR PE
 
 	ADDITIONAL TERMS; UPDATES
 
-You acknowledge that Hoo.be Ping is an aggregation service that collects and combines various content and social media feeds that you are have identified that you are interested in seeing. In addition to the terms of this Agreement, all of the terms (including privacy policies) of the content providers and social media accounts (together, the “Third-Party Applications”) that you include in your customized feed will apply to your use, viewing and submission of content made available to, by or through the Third-Party Applications.
+You acknowledge that Hoo.be and Ping is\\are an aggregation service that collects and combines various content and social media feeds that you are have identified that you are interested in seeing. In addition to the terms of this Agreement, all of the terms (including privacy policies) of the content providers and social media accounts (together, the “Third-Party Applications”) that you include in your customized feed will apply to your use, viewing and submission of content made available to, by or through the Third-Party Applications.
 
 Hoo.be will notify you of any changes to this Privacy Policy by posting the modified Privacy Policy and its effective date on this page. Accordingly, you should visit this page periodically to identify and understand any such changes. By continuing to access or use the Services after a modification, you agree to be bound by the modified Privacy Policy.
      
@@ -88,4 +88,4 @@ If you have any questions about this Privacy Policy or your dealings with Hoo.be
       Attn: Jordan Greenfield
       Email: jordan@hoobieapp.com
 
-Effective date: 3/25/19
+Effective date: 5/8/2020
